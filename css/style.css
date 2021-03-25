@@ -9,3 +9,11 @@ table{
     height: 70px;
     text-align: center;
 }
+
+form{
+    border: 10px solid #d4e09b;
+    text-align: center;
+    margin:15px;
+    font-size:18px;
+    border-radius: 50px;
+}
