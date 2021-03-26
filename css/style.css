@@ -5,9 +5,12 @@ body{
 table{
     background-color: #f19c79;
     width: 100%;
-    border-radius: 50px; 
+    border-radius: 8px; 
     height: 70px;
     text-align: center;
+    font-size: 20px;
+    color: white;
+    
 }
 
 form{
@@ -16,4 +19,24 @@ form{
     margin:15px;
     font-size:18px;
     border-radius: 50px;
+}
+
+img{
+    width: 180px;
+    height: 200px;
+}
+
+
+.rodape{
+    background-color: #f19c79;
+    width: 100%;
+    border-radius: 8px; 
+    height: 30px;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+}
+
+h4{
+    color: #f19c79;
 }
