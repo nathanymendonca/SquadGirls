@@ -19,6 +19,10 @@ form{
     margin:15px;
     font-size:18px;
     border-radius: 50px;
+    width: 1000px;
+    display:inline-block;
+    margin: 160px;
+    margin-top: 20px;
 }
 
 img{
