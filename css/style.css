@@ -13,6 +13,10 @@ table{
     
 }
 
+a{
+    text-decoration: none;
+}
+
 form{
     border: 10px solid #d4e09b;
     text-align: center;
