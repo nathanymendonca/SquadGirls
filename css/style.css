@@ -12,13 +12,39 @@ table{
     border-radius: 8px; 
     height: 70px;
     text-align: center;
-    font-size: 20px;
-    color: white;
-    
 }
 
 a{
     text-decoration: none;
+}
+
+td a{
+    color: white;
+    width: 25%;
+    font-size: 20px;
+    position: relative;
+}
+
+.tituloprincipal{
+    color: #f19c79;
+    margin-top: 230px;
+    margin-left: 0.5%;
+    text-align: center;
+}
+
+.textohome{
+    color: #f19c79;
+    font-size: 22px;
+    text-align: center;
+}
+
+.imagemhome{
+    border-radius: 20px;
+    width: 50%;
+    height: 50%;
+    margin: 2% 25%;
+    display: inline-block;
+    border-style: dashed;
 }
 
 form{
@@ -63,12 +89,14 @@ h4{
     width: 600px;
     margin: auto;
     margin-top: 20px;
+    margin-left: auto;
     position: relative;
 }
 
 .slider li {
     list-style: none;
     position: absolute;
+    padding: auto;
 }
 
 .slider img {
