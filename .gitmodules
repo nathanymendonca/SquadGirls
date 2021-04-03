@@ -1,0 +1,3 @@
+[submodule "SquadGirls"]
+	path = SquadGirls
+	url = https://github.com/nathanymendonca/SquadGirls.git
