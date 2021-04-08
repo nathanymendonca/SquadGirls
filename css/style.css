@@ -18,6 +18,10 @@ a{
     text-decoration: none;
 }
 
+tr{
+    position:relative;
+}
+
 td a{
     color: white;
     width: 25%;
