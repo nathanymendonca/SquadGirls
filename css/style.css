@@ -18,8 +18,21 @@ a{
     text-decoration: none;
 }
 
+a:hover{
+    color: #118ab2;
+    text-decoration: underline;
+}
+
+nav a{
+    text-decoration: none;
+    text-align: justify;
+    color: #83c5be;
+    position: relative;
+    font-size: 20px;
+}
+
 tr{
-    position:relative;
+    position: relative;
 }
 
 td a{
@@ -77,12 +90,13 @@ img{
     text-align: center;
     font-size: 25px;
     color: white;
-    position: static;
+    position:relative;
 }
 
 h4{
     color: #f19c79;
 }
+
 
 /* início do carousel */
 
@@ -147,3 +161,4 @@ h4{
 }
 
    /* fim do carousel */
+
